@@ -1,2 +1,2 @@
 parseInt ('2' , 10)
-console.log (parseInt)
+return (parseInt)
